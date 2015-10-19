@@ -206,7 +206,7 @@ bar {
 	}
 
 	font            pango:Inconsolata for Powerline 10
-	position        top
+	position        bottom
 	status_command	i3status
 }
 
